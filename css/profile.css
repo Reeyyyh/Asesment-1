@@ -1,0 +1,17 @@
+html, body {
+    height: 100%; /* Menjamin bahwa html dan body memenuhi tinggi penuh */
+    margin: 0;    /* Menghapus margin default */
+}
+
+body {
+    display: flex;
+    flex-direction: column; /* Mengatur orientasi flex ke kolom */
+}
+
+main {
+    flex: 1; /* Mengizinkan elemen main untuk tumbuh dan mengisi ruang yang tersisa */
+}
+
+footer {
+    margin-top: auto; /* Menempatkan footer di bagian bawah */
+}
