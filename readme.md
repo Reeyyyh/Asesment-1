@@ -1,7 +1,7 @@
 ## Profile
-Nama : Mohamad Raihan
-Nim : 202210370311011
-Kelas : Pemrograman web i
+- Nama : Mohamad Raihan
+- Nim : 202210370311011
+- Kelas : Pemrograman web i
 
 
 ## Technologies Used
