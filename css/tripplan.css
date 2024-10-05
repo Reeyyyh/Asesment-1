@@ -11,6 +11,7 @@ footer {
     margin-top: auto; 
 }
 
+/* card border */
 .MyBorder{
     border: 1px solid black;
     border-radius: 25px;
