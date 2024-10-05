@@ -1,3 +1,9 @@
+## Profile
+Nama : Mohamad Raihan
+Nim : 202210370311011
+Kelas : Pemrograman web i
+
+
 ## Technologies Used
 
 - **HTML5**: Provides the structure of the page.
